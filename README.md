@@ -20,4 +20,4 @@ py manage.py migrate
 py manage.py runserver
 ```
 
-
+> TODO: Missing image assets in `static/` directory.
